@@ -1,0 +1,15 @@
+fastapi
+langchain
+langgraph
+langchain-community
+langchain-core
+langchain-openai
+langchain-text-splitters
+
+langgraph-checkpoint
+langgraph-prebuilt
+langgraph-sdk
+
+pydantic
+requests
+uvicorn
